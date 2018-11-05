@@ -1,0 +1,24 @@
+.INDIA h1 {
+color: brown;
+}
+.States h1 {
+    color:greenyellow; 
+}
+.Punjab h1 {
+    color:red; 
+}
+p.large-text {
+    color:blue;
+}
+p {
+    font-size:20px;
+}
+.frm {
+    color:rgb(166, 14, 212);
+}
+.sub {
+    color:goldenrod;
+}
+.in {
+ color:magenta;
+}
